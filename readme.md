@@ -2,7 +2,7 @@ In the file 'David_Hudson_HW1.py', the function 'calculate_total_price()' takes 
 well as your state. It returns the total price you will be charged including sales tax. Records can be created from the
 list of items for sale below.
 
-
+To run tests, run 'test_calculate_totals.py'
 
 
 Items For Sale
